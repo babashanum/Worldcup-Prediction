@@ -1,0 +1,6 @@
+{
+  "name": "Football Predictor",
+  "description": "Aplikasi prediksi hasil pertandingan sepak bola menggunakan algoritma machine learning (Gemini) dan model statistik Poisson Distribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
